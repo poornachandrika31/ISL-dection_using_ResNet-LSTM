@@ -46,10 +46,15 @@ Continuous motion patterns
 The CNN+LSTM hybrid architecture bridges spatial and temporal modeling, making it suitable for real-world continuous signing.
 
 📌 **TECH STACK:**
+
 Languages: Python
+
 Deep Learning Frameworks: TensorFlow/Keras (dynamic model), PyTorch (static model)
+
 Computer Vision: OpenCV, MediaPipe Holistic
+
 Data Augmentation: Albumentations
+
 Model Architectures: ResNet18 for static gestures, LSTM for dynamic gestures
 
 📌 **Why the Shift from ResNet to LSTM-based Model?**
